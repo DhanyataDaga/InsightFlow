@@ -1,0 +1,4 @@
+order_id,order_date,ship_date,customer_id,customer_type,region,category,product,quantity,unit_price,target_budget
+ORD-10016,2026-08-21,2026-09-02,CUST-187,Enterprise,APAC,Hydraulics,Valves,-5,54.71,1714.2
+ORD-10043,2026-10-10,2026-10-19,,Enterprise,North America,Electronics,Sensors,35,102.24,3484.8
+ORD-10089,2026-10-01,2026-09-28,CUST-237,Distributor,Europe,Electronics,Sensors,48,752.09,37721.84

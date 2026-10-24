@@ -1,0 +1,157 @@
+order_month,region,category,total_orders,total_units_sold,total_revenue,avg_lead_time_days
+2025-10,APAC,Electronics,4,48,44222.17,8.3
+2025-10,APAC,Hydraulics,3,51,39654.48,7.7
+2025-10,APAC,Industrial Automation,4,132,89136.09,6.8
+2025-10,Europe,Electronics,6,118,140537.6,4.2
+2025-10,Europe,Hydraulics,4,117,166148.09,5.0
+2025-10,Europe,Industrial Automation,5,139,130895.16,11.2
+2025-10,LATAM,Electronics,2,33,27560.6,5.0
+2025-10,LATAM,Hydraulics,2,70,60288.38,10.0
+2025-10,LATAM,Industrial Automation,6,88,39290.82,7.3
+2025-10,North America,Electronics,2,60,45015.24,8.5
+2025-10,North America,Hydraulics,4,81,46999.13,7.3
+2025-10,North America,Industrial Automation,4,95,118768.97,6.3
+2025-11,APAC,Electronics,14,294,204503.59,6.6
+2025-11,APAC,Hydraulics,11,322,231834.88,6.9
+2025-11,APAC,Industrial Automation,18,412,263205.65,7.8
+2025-11,Europe,Electronics,14,354,184105.32,8.9
+2025-11,Europe,Hydraulics,11,393,239213.77,8.6
+2025-11,Europe,Industrial Automation,13,325,207218.07,8.2
+2025-11,LATAM,Electronics,12,377,284723.26,6.3
+2025-11,LATAM,Hydraulics,14,335,249067.3,8.4
+2025-11,LATAM,Industrial Automation,24,610,397212.08,6.3
+2025-11,North America,Electronics,21,459,421253.35,6.3
+2025-11,North America,Hydraulics,18,422,349613.53,8.2
+2025-11,North America,Industrial Automation,19,513,311092.43,8.3
+2025-12,APAC,Electronics,16,373,286131.91,8.1
+2025-12,APAC,Hydraulics,11,300,135823.16,6.5
+2025-12,APAC,Industrial Automation,21,546,442795.49,8.5
+2025-12,Europe,Electronics,24,596,387681.08,6.3
+2025-12,Europe,Hydraulics,22,526,411497.93,7.1
+2025-12,Europe,Industrial Automation,24,807,583225.19,7.4
+2025-12,LATAM,Electronics,16,447,360061.26,6.9
+2025-12,LATAM,Hydraulics,11,228,241207.62,7.3
+2025-12,LATAM,Industrial Automation,15,287,173657.21,7.1
+2025-12,North America,Electronics,18,483,295639.95,7.2
+2025-12,North America,Hydraulics,21,604,395008.29,8.3
+2025-12,North America,Industrial Automation,25,628,439703.26,8.8
+2026-01,APAC,Electronics,22,496,379335.19,6.7
+2026-01,APAC,Hydraulics,18,411,336400.37,6.3
+2026-01,APAC,Industrial Automation,19,569,452709.01,7.1
+2026-01,Europe,Electronics,19,465,308339.22,8.3
+2026-01,Europe,Hydraulics,18,545,383699.1,6.5
+2026-01,Europe,Industrial Automation,19,554,534534.84,8.1
+2026-01,LATAM,Electronics,15,445,341658.03,6.6
+2026-01,LATAM,Hydraulics,19,475,363999.66,8.0
+2026-01,LATAM,Industrial Automation,15,306,168450.48,7.7
+2026-01,North America,Electronics,18,516,487058.05,8.1
+2026-01,North America,Hydraulics,20,522,440576.13,8.4
+2026-01,North America,Industrial Automation,18,447,374257.4,5.0
+2026-02,APAC,Electronics,14,370,322987.09,4.6
+2026-02,APAC,Hydraulics,18,397,284997.88,7.3
+2026-02,APAC,Industrial Automation,14,391,274480.95,9.1
+2026-02,Europe,Electronics,11,238,158148.12,5.5
+2026-02,Europe,Hydraulics,15,348,267523.02,7.1
+2026-02,Europe,Industrial Automation,11,285,264839.0,6.8
+2026-02,LATAM,Electronics,14,305,231985.26,8.9
+2026-02,LATAM,Hydraulics,16,402,309289.44,7.3
+2026-02,LATAM,Industrial Automation,18,478,462758.59,7.3
+2026-02,North America,Electronics,11,318,290453.53,8.3
+2026-02,North America,Hydraulics,10,274,230354.62,7.7
+2026-02,North America,Industrial Automation,15,341,250434.46,6.1
+2026-03,APAC,Electronics,19,513,426608.26,8.3
+2026-03,APAC,Hydraulics,18,510,393441.22,7.8
+2026-03,APAC,Industrial Automation,10,270,182620.02,6.8
+2026-03,Europe,Electronics,17,388,280107.13,7.8
+2026-03,Europe,Hydraulics,12,346,301390.44,8.6
+2026-03,Europe,Industrial Automation,24,549,336874.32,7.5
+2026-03,LATAM,Electronics,23,534,315282.7,8.1
+2026-03,LATAM,Hydraulics,13,376,252071.74,9.1
+2026-03,LATAM,Industrial Automation,18,551,508962.16,7.1
+2026-03,North America,Electronics,16,329,256159.68,8.4
+2026-03,North America,Hydraulics,16,367,322001.08,8.0
+2026-03,North America,Industrial Automation,18,442,305894.62,7.8
+2026-04,APAC,Electronics,13,338,275331.58,7.5
+2026-04,APAC,Hydraulics,19,394,240788.02,7.1
+2026-04,APAC,Industrial Automation,19,618,423006.18,5.9
+2026-04,Europe,Electronics,21,596,466021.11,7.0
+2026-04,Europe,Hydraulics,18,454,295954.5,8.6
+2026-04,Europe,Industrial Automation,15,420,384023.09,6.3
+2026-04,LATAM,Electronics,11,257,236642.94,7.8
+2026-04,LATAM,Hydraulics,15,441,322855.56,6.9
+2026-04,LATAM,Industrial Automation,16,375,251869.99,6.4
+2026-04,North America,Electronics,19,487,459012.2,5.3
+2026-04,North America,Hydraulics,13,273,192882.96,6.5
+2026-04,North America,Industrial Automation,19,516,399976.74,5.5
+2026-05,APAC,Electronics,14,337,254478.43,7.8
+2026-05,APAC,Hydraulics,19,367,378787.43,7.9
+2026-05,APAC,Industrial Automation,20,479,330287.27,8.3
+2026-05,Europe,Electronics,24,579,485593.51,7.9
+2026-05,Europe,Hydraulics,21,548,347656.05,8.0
+2026-05,Europe,Industrial Automation,14,294,182105.29,8.1
+2026-05,LATAM,Electronics,19,481,394417.01,8.8
+2026-05,LATAM,Hydraulics,18,434,382469.51,7.2
+2026-05,LATAM,Industrial Automation,17,358,251036.7,6.4
+2026-05,North America,Electronics,17,465,386643.67,7.4
+2026-05,North America,Hydraulics,20,524,382371.88,7.1
+2026-05,North America,Industrial Automation,22,661,506972.84,7.0
+2026-06,APAC,Electronics,12,258,162820.83,10.0
+2026-06,APAC,Hydraulics,21,529,463238.71,8.3
+2026-06,APAC,Industrial Automation,19,412,256288.45,7.7
+2026-06,Europe,Electronics,19,523,470340.32,5.9
+2026-06,Europe,Hydraulics,12,287,329111.34,8.9
+2026-06,Europe,Industrial Automation,20,516,410898.61,7.2
+2026-06,LATAM,Electronics,18,478,490155.54,6.5
+2026-06,LATAM,Hydraulics,21,582,533331.23,7.4
+2026-06,LATAM,Industrial Automation,23,604,411813.97,7.5
+2026-06,North America,Electronics,19,506,482386.58,7.0
+2026-06,North America,Hydraulics,25,743,595263.18,6.6
+2026-06,North America,Industrial Automation,15,442,443522.42,8.9
+2026-07,APAC,Electronics,13,357,208726.78,8.4
+2026-07,APAC,Hydraulics,18,433,330949.29,10.2
+2026-07,APAC,Industrial Automation,15,408,266886.16,6.7
+2026-07,Europe,Electronics,19,535,461955.38,8.6
+2026-07,Europe,Hydraulics,22,526,351960.43,6.5
+2026-07,Europe,Industrial Automation,23,624,519623.16,7.0
+2026-07,LATAM,Electronics,12,273,184232.1,7.6
+2026-07,LATAM,Hydraulics,20,671,573082.6,6.7
+2026-07,LATAM,Industrial Automation,14,411,255465.91,10.6
+2026-07,North America,Electronics,21,550,378653.4,8.2
+2026-07,North America,Hydraulics,21,593,400340.34,7.5
+2026-07,North America,Industrial Automation,14,400,321421.05,10.1
+2026-08,APAC,Electronics,18,578,335601.65,7.3
+2026-08,APAC,Hydraulics,12,303,212770.72,8.3
+2026-08,APAC,Industrial Automation,19,421,410031.12,7.2
+2026-08,Europe,Electronics,17,193,131447.65,6.5
+2026-08,Europe,Hydraulics,16,374,314458.34,6.3
+2026-08,Europe,Industrial Automation,18,511,399951.08,7.7
+2026-08,LATAM,Electronics,17,380,277258.03,8.5
+2026-08,LATAM,Hydraulics,24,602,519771.88,7.0
+2026-08,LATAM,Industrial Automation,21,526,398218.12,8.5
+2026-08,North America,Electronics,15,362,317847.13,9.5
+2026-08,North America,Hydraulics,16,393,259174.62,7.5
+2026-08,North America,Industrial Automation,16,435,267220.37,7.6
+2026-09,APAC,Electronics,18,426,287793.28,7.1
+2026-09,APAC,Hydraulics,17,546,480755.26,8.4
+2026-09,APAC,Industrial Automation,10,246,196914.98,5.7
+2026-09,Europe,Electronics,18,380,293553.02,7.3
+2026-09,Europe,Hydraulics,22,432,382101.27,6.7
+2026-09,Europe,Industrial Automation,20,556,526699.68,6.9
+2026-09,LATAM,Electronics,17,248,197130.76,6.6
+2026-09,LATAM,Hydraulics,14,316,257477.7,8.8
+2026-09,LATAM,Industrial Automation,28,692,528596.53,8.7
+2026-09,North America,Electronics,12,370,317153.42,8.1
+2026-09,North America,Hydraulics,17,429,261226.83,6.9
+2026-09,North America,Industrial Automation,15,397,303492.34,9.0
+2026-10,APAC,Electronics,21,555,440673.34,7.3
+2026-10,APAC,Hydraulics,19,547,255232.79,6.8
+2026-10,APAC,Industrial Automation,16,355,259264.03,7.3
+2026-10,Europe,Electronics,13,369,235658.39,7.8
+2026-10,Europe,Hydraulics,9,151,139863.62,10.0
+2026-10,Europe,Industrial Automation,10,201,171436.08,6.7
+2026-10,LATAM,Electronics,14,380,301748.11,5.9
+2026-10,LATAM,Hydraulics,16,404,345986.36,5.6
+2026-10,LATAM,Industrial Automation,17,398,370587.43,6.6
+2026-10,North America,Electronics,6,163,149660.05,8.0
+2026-10,North America,Hydraulics,16,432,337960.39,7.8
+2026-10,North America,Industrial Automation,14,344,224850.34,9.4
